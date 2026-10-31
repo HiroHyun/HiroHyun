@@ -1,0 +1,27 @@
+media/year-dark-still.svg
+  s_b8499e51690fd7::t_5c47ccbf8291cd 1-391
+media/year-dark.svg
+  s_b8499e51690fd7::t_ccc858795cc7be 1-391
+media/year-light-still.svg
+  s_b8499e51690fd7::t_136b877e33d2af 1-391
+media/year-light.svg
+  s_b8499e51690fd7::t_1352b940abc17a 1-391
+scripts/year-in-print.mjs
+  s_b8499e51690fd7::t_6df03cbdcda019 1-122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "daef8f07187f9b5c4beaeabd95c02b0d9e51376d",
+  "prompts": {},
+  "sessions": {
+    "s_b8499e51690fd7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dcf1d396-cd90-4f54-b3fa-79bca24dd284",
+        "model": "unknown"
+      },
+      "human_author": "HiroHyun <92624592+HiroHyun@users.noreply.github.com>"
+    }
+  }
+}
