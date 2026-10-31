@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="172" viewBox="0 0 720 172" role="img" aria-label="A year in print: 226 contributions on GitHub in the last year, one halftone dot per day">
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="172" viewBox="0 0 720 172" role="img" aria-label="A year in print: 228 contributions on GitHub in the last year, one halftone dot per day">
 <style>.m,.cap{font-family:'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;font-size:10px;letter-spacing:.14em;fill:#A39B8E}.cap.a{fill:#E5605A}.d{fill:#EDE7DC}.z{fill:#A39B8E;opacity:.45}.today{fill:none;stroke:#E5605A;stroke-width:1.4}.rule{stroke:#3A342D;stroke-width:1}.d,.today{transform-box:fill-box;transform-origin:center;animation:ink .42s cubic-bezier(.2,.9,.3,1.25) both}@keyframes ink{from{transform:scale(0);opacity:0}to{transform:scale(1);opacity:1}}.roller{stroke:#E5605A;stroke-width:1.2;animation:roll 1.47s linear .3s both}@keyframes roll{0%{transform:translateX(0);opacity:0}8%{opacity:.9}88%{opacity:.9}100%{transform:translateX(665.2px);opacity:0}}@media (prefers-reduced-motion:reduce){.d,.today,.roller{animation:none}.roller{opacity:0}}</style>
 <rect width="720" height="172" fill="#191613"/>
 <text x="47.4" y="32" class="m">NOV</text>
@@ -369,7 +369,7 @@
 <circle class="d z" cx="658.0" cy="83.2" r="1.1" style="animation-delay:1.450s"/>
 <circle class="d" cx="658.0" cy="95.6" r="3.2" style="animation-delay:1.450s"/>
 <circle class="d" cx="658.0" cy="108.0" r="2.3" style="animation-delay:1.450s"/>
-<circle class="d" cx="658.0" cy="120.4" r="2.3" style="animation-delay:1.450s"/>
+<circle class="d z" cx="658.0" cy="120.4" r="1.1" style="animation-delay:1.450s"/>
 <circle class="d z" cx="670.4" cy="46.0" r="1.1" style="animation-delay:1.472s"/>
 <circle class="d" cx="670.4" cy="58.4" r="2.3" style="animation-delay:1.472s"/>
 <circle class="d z" cx="670.4" cy="70.8" r="1.1" style="animation-delay:1.472s"/>
@@ -383,9 +383,10 @@
 <circle class="d z" cx="682.8" cy="83.2" r="1.1" style="animation-delay:1.494s"/>
 <circle class="d z" cx="682.8" cy="95.6" r="1.1" style="animation-delay:1.494s"/>
 <circle class="d z" cx="682.8" cy="108.0" r="1.1" style="animation-delay:1.494s"/>
-<circle class="today" cx="682.8" cy="108.0" r="7.6" style="animation-delay:1.494s"/>
+<circle class="d" cx="682.8" cy="120.4" r="2.3" style="animation-delay:1.494s"/>
+<circle class="today" cx="682.8" cy="120.4" r="7.6" style="animation-delay:1.494s"/>
 <line class="roller" x1="30" y1="37" x2="30" y2="129.4"/>
 <line class="rule" x1="33" y1="138" x2="687.8" y2="138"/>
 <text x="33" y="157" class="cap a">A YEAR IN PRINT</text>
-<text x="687.8" y="157" class="cap" text-anchor="end">226 CONTRIBUTIONS IN THE LAST YEAR</text>
+<text x="687.8" y="157" class="cap" text-anchor="end">228 CONTRIBUTIONS IN THE LAST YEAR</text>
 </svg>

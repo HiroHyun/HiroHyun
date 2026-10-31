@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="172" viewBox="0 0 720 172" role="img" aria-label="A year in print: 226 contributions on GitHub in the last year, one halftone dot per day">
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="172" viewBox="0 0 720 172" role="img" aria-label="A year in print: 228 contributions on GitHub in the last year, one halftone dot per day">
 <style>.m,.cap{font-family:'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;font-size:10px;letter-spacing:.14em;fill:#6F695F}.cap.a{fill:#C0303A}.d{fill:#1C1A17}.z{fill:#6F695F;opacity:.45}.today{fill:none;stroke:#C0303A;stroke-width:1.4}.rule{stroke:#D9D2C5;stroke-width:1}</style>
 <rect width="720" height="172" fill="#F4F0E8"/>
 <text x="47.4" y="32" class="m">NOV</text>
@@ -369,7 +369,7 @@
 <circle class="d z" cx="658.0" cy="83.2" r="1.1"/>
 <circle class="d" cx="658.0" cy="95.6" r="3.2"/>
 <circle class="d" cx="658.0" cy="108.0" r="2.3"/>
-<circle class="d" cx="658.0" cy="120.4" r="2.3"/>
+<circle class="d z" cx="658.0" cy="120.4" r="1.1"/>
 <circle class="d z" cx="670.4" cy="46.0" r="1.1"/>
 <circle class="d" cx="670.4" cy="58.4" r="2.3"/>
 <circle class="d z" cx="670.4" cy="70.8" r="1.1"/>
@@ -383,9 +383,10 @@
 <circle class="d z" cx="682.8" cy="83.2" r="1.1"/>
 <circle class="d z" cx="682.8" cy="95.6" r="1.1"/>
 <circle class="d z" cx="682.8" cy="108.0" r="1.1"/>
-<circle class="today" cx="682.8" cy="108.0" r="7.6"/>
+<circle class="d" cx="682.8" cy="120.4" r="2.3"/>
+<circle class="today" cx="682.8" cy="120.4" r="7.6"/>
 
 <line class="rule" x1="33" y1="138" x2="687.8" y2="138"/>
 <text x="33" y="157" class="cap a">A YEAR IN PRINT</text>
-<text x="687.8" y="157" class="cap" text-anchor="end">226 CONTRIBUTIONS IN THE LAST YEAR</text>
+<text x="687.8" y="157" class="cap" text-anchor="end">228 CONTRIBUTIONS IN THE LAST YEAR</text>
 </svg>
