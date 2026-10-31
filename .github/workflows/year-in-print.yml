@@ -1,0 +1,41 @@
+name: Redraw the year in print
+
+on:
+  schedule:
+    - cron: '17 19 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/year-in-print.yml'
+      - 'scripts/year-in-print.mjs'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: year-in-print
+  cancel-in-progress: false
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+      - name: Draw the graph
+        run: node scripts/year-in-print.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Save it
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add media/year-*.svg
+          if ! git diff --cached --quiet; then
+            git commit -m 'Redraw the year in print'
+            git push
+          fi
