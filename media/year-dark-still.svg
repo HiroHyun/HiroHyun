@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="172" viewBox="0 0 720 172" role="img" aria-label="A year in print: 228 contributions on GitHub in the last year, one halftone dot per day">
 <style>.m,.cap{font-family:'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;font-size:10px;letter-spacing:.14em;fill:#A39B8E}.cap.a{fill:#E5605A}.d{fill:#EDE7DC}.z{fill:#A39B8E;opacity:.45}.today{fill:none;stroke:#E5605A;stroke-width:1.4}.rule{stroke:#3A342D;stroke-width:1}</style>
 <rect width="720" height="172" fill="#191613"/>
-<text x="47.4" y="32" class="m">NOV</text>
-<text x="109.4" y="32" class="m">DEC</text>
-<text x="159.0" y="32" class="m">JAN</text>
-<text x="208.6" y="32" class="m">FEB</text>
-<text x="258.2" y="32" class="m">MAR</text>
-<text x="320.2" y="32" class="m">APR</text>
-<text x="369.8" y="32" class="m">MAY</text>
-<text x="431.8" y="32" class="m">JUN</text>
-<text x="481.4" y="32" class="m">JUL</text>
-<text x="531.0" y="32" class="m">AUG</text>
-<text x="593.0" y="32" class="m">SEP</text>
-<text x="642.6" y="32" class="m">OCT</text>
+<text x="35.0" y="32" class="m">NOV</text>
+<text x="97.0" y="32" class="m">DEC</text>
+<text x="146.6" y="32" class="m">JAN</text>
+<text x="196.2" y="32" class="m">FEB</text>
+<text x="245.8" y="32" class="m">MAR</text>
+<text x="307.8" y="32" class="m">APR</text>
+<text x="357.4" y="32" class="m">MAY</text>
+<text x="419.4" y="32" class="m">JUN</text>
+<text x="469.0" y="32" class="m">JUL</text>
+<text x="518.6" y="32" class="m">AUG</text>
+<text x="580.6" y="32" class="m">SEP</text>
+<text x="630.2" y="32" class="m">OCT</text>
 <circle class="d z" cx="38.0" cy="46.0" r="1.1"/>
 <circle class="d z" cx="38.0" cy="58.4" r="1.1"/>
 <circle class="d z" cx="38.0" cy="70.8" r="1.1"/>
@@ -258,44 +258,44 @@
 <circle class="d z" cx="459.6" cy="95.6" r="1.1"/>
 <circle class="d z" cx="459.6" cy="108.0" r="1.1"/>
 <circle class="d z" cx="459.6" cy="120.4" r="1.1"/>
-<circle class="d z" cx="472.0" cy="46.0" r="1.1"/>
+<circle class="d" cx="472.0" cy="46.0" r="2.3"/>
 <circle class="d z" cx="472.0" cy="58.4" r="1.1"/>
 <circle class="d z" cx="472.0" cy="70.8" r="1.1"/>
 <circle class="d z" cx="472.0" cy="83.2" r="1.1"/>
 <circle class="d z" cx="472.0" cy="95.6" r="1.1"/>
 <circle class="d z" cx="472.0" cy="108.0" r="1.1"/>
 <circle class="d z" cx="472.0" cy="120.4" r="1.1"/>
-<circle class="d" cx="484.4" cy="46.0" r="2.3"/>
+<circle class="d z" cx="484.4" cy="46.0" r="1.1"/>
 <circle class="d z" cx="484.4" cy="58.4" r="1.1"/>
 <circle class="d z" cx="484.4" cy="70.8" r="1.1"/>
 <circle class="d z" cx="484.4" cy="83.2" r="1.1"/>
 <circle class="d z" cx="484.4" cy="95.6" r="1.1"/>
 <circle class="d z" cx="484.4" cy="108.0" r="1.1"/>
-<circle class="d z" cx="484.4" cy="120.4" r="1.1"/>
+<circle class="d" cx="484.4" cy="120.4" r="3.2"/>
 <circle class="d z" cx="496.8" cy="46.0" r="1.1"/>
 <circle class="d z" cx="496.8" cy="58.4" r="1.1"/>
 <circle class="d z" cx="496.8" cy="70.8" r="1.1"/>
 <circle class="d z" cx="496.8" cy="83.2" r="1.1"/>
 <circle class="d z" cx="496.8" cy="95.6" r="1.1"/>
-<circle class="d z" cx="496.8" cy="108.0" r="1.1"/>
-<circle class="d" cx="496.8" cy="120.4" r="3.2"/>
+<circle class="d" cx="496.8" cy="108.0" r="3.2"/>
+<circle class="d" cx="496.8" cy="120.4" r="2.3"/>
 <circle class="d z" cx="509.2" cy="46.0" r="1.1"/>
 <circle class="d z" cx="509.2" cy="58.4" r="1.1"/>
 <circle class="d z" cx="509.2" cy="70.8" r="1.1"/>
 <circle class="d z" cx="509.2" cy="83.2" r="1.1"/>
-<circle class="d z" cx="509.2" cy="95.6" r="1.1"/>
+<circle class="d" cx="509.2" cy="95.6" r="2.3"/>
 <circle class="d" cx="509.2" cy="108.0" r="3.2"/>
-<circle class="d" cx="509.2" cy="120.4" r="2.3"/>
-<circle class="d z" cx="521.6" cy="46.0" r="1.1"/>
-<circle class="d z" cx="521.6" cy="58.4" r="1.1"/>
-<circle class="d z" cx="521.6" cy="70.8" r="1.1"/>
+<circle class="d" cx="509.2" cy="120.4" r="3.2"/>
+<circle class="d" cx="521.6" cy="46.0" r="3.2"/>
+<circle class="d" cx="521.6" cy="58.4" r="3.2"/>
+<circle class="d" cx="521.6" cy="70.8" r="2.3"/>
 <circle class="d z" cx="521.6" cy="83.2" r="1.1"/>
-<circle class="d" cx="521.6" cy="95.6" r="2.3"/>
-<circle class="d" cx="521.6" cy="108.0" r="3.2"/>
-<circle class="d" cx="521.6" cy="120.4" r="3.2"/>
-<circle class="d" cx="534.0" cy="46.0" r="3.2"/>
-<circle class="d" cx="534.0" cy="58.4" r="3.2"/>
-<circle class="d" cx="534.0" cy="70.8" r="2.3"/>
+<circle class="d z" cx="521.6" cy="95.6" r="1.1"/>
+<circle class="d z" cx="521.6" cy="108.0" r="1.1"/>
+<circle class="d z" cx="521.6" cy="120.4" r="1.1"/>
+<circle class="d z" cx="534.0" cy="46.0" r="1.1"/>
+<circle class="d z" cx="534.0" cy="58.4" r="1.1"/>
+<circle class="d z" cx="534.0" cy="70.8" r="1.1"/>
 <circle class="d z" cx="534.0" cy="83.2" r="1.1"/>
 <circle class="d z" cx="534.0" cy="95.6" r="1.1"/>
 <circle class="d z" cx="534.0" cy="108.0" r="1.1"/>
@@ -323,68 +323,62 @@
 <circle class="d z" cx="571.2" cy="120.4" r="1.1"/>
 <circle class="d z" cx="583.6" cy="46.0" r="1.1"/>
 <circle class="d z" cx="583.6" cy="58.4" r="1.1"/>
-<circle class="d z" cx="583.6" cy="70.8" r="1.1"/>
-<circle class="d z" cx="583.6" cy="83.2" r="1.1"/>
+<circle class="d" cx="583.6" cy="70.8" r="4.1"/>
+<circle class="d" cx="583.6" cy="83.2" r="3.2"/>
 <circle class="d z" cx="583.6" cy="95.6" r="1.1"/>
 <circle class="d z" cx="583.6" cy="108.0" r="1.1"/>
 <circle class="d z" cx="583.6" cy="120.4" r="1.1"/>
 <circle class="d z" cx="596.0" cy="46.0" r="1.1"/>
 <circle class="d z" cx="596.0" cy="58.4" r="1.1"/>
-<circle class="d" cx="596.0" cy="70.8" r="4.1"/>
-<circle class="d" cx="596.0" cy="83.2" r="3.2"/>
+<circle class="d" cx="596.0" cy="70.8" r="2.3"/>
+<circle class="d z" cx="596.0" cy="83.2" r="1.1"/>
 <circle class="d z" cx="596.0" cy="95.6" r="1.1"/>
 <circle class="d z" cx="596.0" cy="108.0" r="1.1"/>
 <circle class="d z" cx="596.0" cy="120.4" r="1.1"/>
 <circle class="d z" cx="608.4" cy="46.0" r="1.1"/>
 <circle class="d z" cx="608.4" cy="58.4" r="1.1"/>
-<circle class="d" cx="608.4" cy="70.8" r="2.3"/>
+<circle class="d z" cx="608.4" cy="70.8" r="1.1"/>
 <circle class="d z" cx="608.4" cy="83.2" r="1.1"/>
 <circle class="d z" cx="608.4" cy="95.6" r="1.1"/>
-<circle class="d z" cx="608.4" cy="108.0" r="1.1"/>
+<circle class="d" cx="608.4" cy="108.0" r="2.3"/>
 <circle class="d z" cx="608.4" cy="120.4" r="1.1"/>
 <circle class="d z" cx="620.8" cy="46.0" r="1.1"/>
 <circle class="d z" cx="620.8" cy="58.4" r="1.1"/>
 <circle class="d z" cx="620.8" cy="70.8" r="1.1"/>
 <circle class="d z" cx="620.8" cy="83.2" r="1.1"/>
 <circle class="d z" cx="620.8" cy="95.6" r="1.1"/>
-<circle class="d" cx="620.8" cy="108.0" r="2.3"/>
+<circle class="d" cx="620.8" cy="108.0" r="3.2"/>
 <circle class="d z" cx="620.8" cy="120.4" r="1.1"/>
 <circle class="d z" cx="633.2" cy="46.0" r="1.1"/>
 <circle class="d z" cx="633.2" cy="58.4" r="1.1"/>
 <circle class="d z" cx="633.2" cy="70.8" r="1.1"/>
 <circle class="d z" cx="633.2" cy="83.2" r="1.1"/>
-<circle class="d z" cx="633.2" cy="95.6" r="1.1"/>
+<circle class="d" cx="633.2" cy="95.6" r="5"/>
 <circle class="d" cx="633.2" cy="108.0" r="3.2"/>
-<circle class="d z" cx="633.2" cy="120.4" r="1.1"/>
-<circle class="d z" cx="645.6" cy="46.0" r="1.1"/>
-<circle class="d z" cx="645.6" cy="58.4" r="1.1"/>
-<circle class="d z" cx="645.6" cy="70.8" r="1.1"/>
+<circle class="d" cx="633.2" cy="120.4" r="5"/>
+<circle class="d" cx="645.6" cy="46.0" r="5"/>
+<circle class="d" cx="645.6" cy="58.4" r="3.2"/>
+<circle class="d" cx="645.6" cy="70.8" r="2.3"/>
 <circle class="d z" cx="645.6" cy="83.2" r="1.1"/>
-<circle class="d" cx="645.6" cy="95.6" r="5"/>
-<circle class="d" cx="645.6" cy="108.0" r="3.2"/>
-<circle class="d" cx="645.6" cy="120.4" r="5"/>
-<circle class="d" cx="658.0" cy="46.0" r="5"/>
-<circle class="d" cx="658.0" cy="58.4" r="3.2"/>
-<circle class="d" cx="658.0" cy="70.8" r="2.3"/>
+<circle class="d" cx="645.6" cy="95.6" r="3.2"/>
+<circle class="d" cx="645.6" cy="108.0" r="2.3"/>
+<circle class="d z" cx="645.6" cy="120.4" r="1.1"/>
+<circle class="d z" cx="658.0" cy="46.0" r="1.1"/>
+<circle class="d" cx="658.0" cy="58.4" r="2.3"/>
+<circle class="d z" cx="658.0" cy="70.8" r="1.1"/>
 <circle class="d z" cx="658.0" cy="83.2" r="1.1"/>
-<circle class="d" cx="658.0" cy="95.6" r="3.2"/>
-<circle class="d" cx="658.0" cy="108.0" r="2.3"/>
+<circle class="d z" cx="658.0" cy="95.6" r="1.1"/>
+<circle class="d z" cx="658.0" cy="108.0" r="1.1"/>
 <circle class="d z" cx="658.0" cy="120.4" r="1.1"/>
 <circle class="d z" cx="670.4" cy="46.0" r="1.1"/>
-<circle class="d" cx="670.4" cy="58.4" r="2.3"/>
+<circle class="d z" cx="670.4" cy="58.4" r="1.1"/>
 <circle class="d z" cx="670.4" cy="70.8" r="1.1"/>
 <circle class="d z" cx="670.4" cy="83.2" r="1.1"/>
 <circle class="d z" cx="670.4" cy="95.6" r="1.1"/>
 <circle class="d z" cx="670.4" cy="108.0" r="1.1"/>
-<circle class="d z" cx="670.4" cy="120.4" r="1.1"/>
+<circle class="d" cx="670.4" cy="120.4" r="2.3"/>
 <circle class="d z" cx="682.8" cy="46.0" r="1.1"/>
-<circle class="d z" cx="682.8" cy="58.4" r="1.1"/>
-<circle class="d z" cx="682.8" cy="70.8" r="1.1"/>
-<circle class="d z" cx="682.8" cy="83.2" r="1.1"/>
-<circle class="d z" cx="682.8" cy="95.6" r="1.1"/>
-<circle class="d z" cx="682.8" cy="108.0" r="1.1"/>
-<circle class="d" cx="682.8" cy="120.4" r="2.3"/>
-<circle class="today" cx="682.8" cy="120.4" r="7.6"/>
+<circle class="today" cx="682.8" cy="46.0" r="7.6"/>
 
 <line class="rule" x1="33" y1="138" x2="687.8" y2="138"/>
 <text x="33" y="157" class="cap a">A YEAR IN PRINT</text>
