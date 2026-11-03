@@ -378,7 +378,9 @@
 <circle class="d z" cx="670.4" cy="108.0" r="1.1" style="animation-delay:1.472s"/>
 <circle class="d" cx="670.4" cy="120.4" r="2.3" style="animation-delay:1.472s"/>
 <circle class="d z" cx="682.8" cy="46.0" r="1.1" style="animation-delay:1.494s"/>
-<circle class="today" cx="682.8" cy="46.0" r="7.6" style="animation-delay:1.494s"/>
+<circle class="d z" cx="682.8" cy="58.4" r="1.1" style="animation-delay:1.494s"/>
+<circle class="d z" cx="682.8" cy="70.8" r="1.1" style="animation-delay:1.494s"/>
+<circle class="today" cx="682.8" cy="70.8" r="7.6" style="animation-delay:1.494s"/>
 <line class="roller" x1="30" y1="37" x2="30" y2="129.4"/>
 <line class="rule" x1="33" y1="138" x2="687.8" y2="138"/>
 <text x="33" y="157" class="cap a">A YEAR IN PRINT</text>
