@@ -381,7 +381,8 @@
 <circle class="d z" cx="682.8" cy="58.4" r="1.1"/>
 <circle class="d z" cx="682.8" cy="70.8" r="1.1"/>
 <circle class="d z" cx="682.8" cy="83.2" r="1.1"/>
-<circle class="today" cx="682.8" cy="83.2" r="7.6"/>
+<circle class="d z" cx="682.8" cy="95.6" r="1.1"/>
+<circle class="today" cx="682.8" cy="95.6" r="7.6"/>
 
 <line class="rule" x1="33" y1="138" x2="687.8" y2="138"/>
 <text x="33" y="157" class="cap a">A YEAR IN PRINT</text>
